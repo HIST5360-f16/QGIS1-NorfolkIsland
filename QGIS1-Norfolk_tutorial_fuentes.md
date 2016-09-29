@@ -28,7 +28,7 @@
 
 7.	Perform a google search and look for a "Norfolk Island tif file".  Your search should take you to the National Library of Australia.  Download the tif file titled: "Map and chart of Norfolk Island from actual survey, 1840 / John Arrowsmith".
 
-![Screenshot3_tifFile- Step 7](/Screenshot2_tifFile.PNG)
+![Screenshot3_tifFile- Step 7](/Screenshot3_tifFile.PNG)
 
 Unzip it and import the .tif file into QGIS as a raster file. Note that the image is angled different in QGIS.
 
