@@ -3,7 +3,7 @@
 ### Author: sebastian.fuentes@mavs.uta.edu
 ![Flag of Norfolk](\Flag_of_Norfolk_Island.svg.png)
 ### This tutorial is designed so you can practice the skills you used in the [Programming Historian QGIS Tutorial about adding layers](http://programminghistorian.org/lessons/qgis-layers "Links to Programming Historian")
-1.	Make a folder or directory called �Norfolk Island� on your computer.
+1.	Make a folder or directory called *Norfolk Island* on your computer.
 2.	Download the following Norfolk Island data sets from DIVA-GIS [Google it] into that directory and unzip them; each should be in its own sub-directory.  When using the "Download data by country", remember you have to search for the Country using the drop down menu and Subject material you wanting to download.  For this activity, you have perform this step twice in order to collect the 'adm.' and 'rds.' Zip Files.  Use the Subject drop down menu and select "Administrative areas" and "Roads" before clicking "OK".
     -	Administrative Areas NFK_adm.ZIP
     -	Roads NFK_rds.ZIP
@@ -34,7 +34,7 @@
 Unzip it and import the .tif file into QGIS as a raster file. Note that the image is angled different in QGIS.
 
 8.	Go back to NFK_adm0.shp and change the width of the lines so they are visible.
-9.	In the left-hand �layers� panel, drag the nla.obj-231888760 layer so you can see the historical map below the NFK_adm0.shp lines.
+9.	In the left-hand *layers* panel, drag the nla.obj-231888760 layer so you can see the historical map below the NFK_adm0.shp lines.
 
 Note: You might need to use the Geo-referencing tool to Geo-reference the tif file.  See the below screen shot.
 
