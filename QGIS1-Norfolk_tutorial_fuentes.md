@@ -44,7 +44,18 @@ Note: You might need to use the Geo-referencing tool to Geo-reference the tif fi
 
 ![Final Product](\Final Product.png)
 
-11.	Save your work. Close QGIS
+*How to add a map that is not available in TIF*
+10. If you want to add another map of Norfolk Island that you find, you need to know how to convert it to a TIF file in order to georeference it. Download [Irfanview](http://www.irfanview.com/)
+
+![Irfanview](/Irfanview Screenshot.png)
+
+11. Find a map on google that you like, or use [Norfolk Island](https://www.google.com/search?q=norfolk+island+map&biw=1920&bih=910&tbm=isch&tbo=u&source=univ&sa=X&sqi=2&ved=0ahUKEwictaCsy7XPAhXJVh4KHRC0AHUQsAQIKg#imgrc=uNrWNc_GWuP6yM%3A)
+12. Open your Irfanviewer, and select the *Batch Convert* option under *File*. Add your map to the batch, and convert to TIF.
+13. Select the *Georeferencer* option under the *Raster* button on the toolbar. Select your map after choosing the "add raster" button.
+14. Select several points on the map that can be easily found on the shapefile (I often choose hydrology), and make sure your settings add the georeferenced map to QGIS.
+15. After you have finished, you should see your map superimposed over the shapefile in QGIS. Click on the map file, and adjust the transparency so that you can easily see the information on the shapefile and the map at the same time.
+16. Congratulations! You have successfully taken a JPEG file map, converted it to TIF, and added it to your work.
+17.	Save your work. Close QGIS
 
 # Data Sources for this Tutorial
 ## Country GIS base map data
