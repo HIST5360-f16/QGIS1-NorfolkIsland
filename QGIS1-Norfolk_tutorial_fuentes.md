@@ -22,7 +22,6 @@
 
 ![After Edits from Step 5](/After Edits.PNG)
 
-![Placeholder image 2](/Barbados_map.jpg)
 6.	There is not an attribute table nor file titled NFK_adm1.shp. If there were, the file might show the country's 10 parishes for example. Instead, right click on the NFK_adm0.shp file, select Properties, and navigate to Labels.  Use the screen shot provided to label the island using "Name_ENGLI" and change the font size and color as needed. Change so that your map shows the name of the island in a large font.
 
 ![Screenshot2_Labeling - Step 6](/Screenshot2_Labeling.PNG)
